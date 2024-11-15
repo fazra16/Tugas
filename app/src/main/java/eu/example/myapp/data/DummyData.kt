@@ -6,51 +6,51 @@ object DummyData {
     val skincareList = listOf(
         Brand(
             id = 1,
-            name = "Manusia mobil penculik",
-            photoProduct = R.drawable.aldo,
+            name = "sayur",
+            photoProduct = R.drawable.jahe,
             price = 2000
         ),
         Brand(
             id = 2,
-            name = "Supra",
-            photoProduct = R.drawable.absar,
+            name = "Sayur",
+            photoProduct = R.drawable.lengkuas,
             price = -5000
         ),
         Brand(
 
             id = 3,
-            name = "OM GYM",
-            photoProduct = R.drawable.absar1,
+            name = "sayur",
+            photoProduct = R.drawable.sawi,
             price = 0
         ),
         Brand(
             id = 4,
-            name = "Cabe murah",
-            photoProduct = R.drawable.amel,
+            name = "sayur",
+            photoProduct = R.drawable.tomat,
             price = 210000
         ),
         Brand(
             id = 5,
-            name = "Si paling PG",
-            photoProduct = R.drawable.rahel,
+            name = "sayur",
+            photoProduct = R.drawable.ttimun,
             price = 1000
         ),
         Brand(
             id = 6,
-            name = "Lemot",
-            photoProduct = R.drawable.tyas,
+            name = "sayur",
+            photoProduct = R.drawable.cabe,
             price = 2500
         ),
         Brand(
             id = 7,
-            name = "Orang paling sedih",
-            photoProduct = R.drawable.rejak,
+            name = "sayur",
+            photoProduct = R.drawable.wortel,
             price = 7000
         ),
         Brand(
             id = 8,
-            name = "dipeluk",
-            photoProduct = R.drawable.einstein,
+            name = "sayur",
+            photoProduct = R.drawable.cabe,
             price = 100
         ),
 

@@ -1,4 +1,4 @@
-package eu.example.myapp.ui
+package eu.example.MyAapp.ui
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
@@ -25,7 +25,7 @@ fun AboutScreen() {
     ) {
         // Foto Profil
         Image(
-            painter = painterResource(id = R.drawable.ririn),
+            painter = painterResource(id = R.drawable.ala),
             contentDescription = "Your Photo",
             modifier = Modifier
                 .width(300.dp) // Lebar
@@ -46,7 +46,7 @@ fun AboutScreen() {
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
                 Text(
-                    text = "Ririn Fitri Wulandari",
+                    text = "Miftahul Fazra",
                     fontSize = 25.sp,
                     fontWeight = FontWeight.Bold,
                     textAlign = TextAlign.Center
